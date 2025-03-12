@@ -81,7 +81,7 @@ ________________________________________
 •	Suicide
 •	Accident
 •	Unknown
-✅ How to Use:
+* ✅ How to Use:
 •	Click the dropdown menu.
 •	Select a specific manner of death to refine the results.
 •	The dashboard updates automatically based on your selection.
@@ -90,7 +90,7 @@ ________________________________________
 •	Shows the distribution of deaths by manner.
 •	Different colors represent different categories (natural causes, suicide, accident, and unknown).
 •	The percentage and total count are displayed.
-✅ How to Use:
+* ✅ How to Use:
 •	Hover over the chart to see detailed percentages.
 •	Use the manner of death filter to observe category-specific changes.
 ________________________________________
@@ -98,7 +98,7 @@ ________________________________________
 •	Displays various causes of death alongside their average age at death.
 •	Sorted in descending order of frequency or impact.
 •	Causes include work accidents, suicides, war-related deaths, illnesses, and other fatal incidents.
-✅ How to Use:
+* ✅ How to Use:
 •	Scroll down to explore different causes of death.
 •	Identify causes with significantly high or low average death ages.
 ________________________________________
@@ -106,6 +106,6 @@ ________________________________________
 •	Lists occupations alongside their average age at death.
 •	Some professions (e.g., Vicar, Lecturer, Astronomer) have an average death age of 99, suggesting longevity.
 •	Other professions may show significantly lower life expectancy based on risk factors.
-✅ How to Use:
+* ✅ How to Use:
 •	Analyze which occupations are associated with higher or lower death ages.
 •	Compare trends between different job roles.
