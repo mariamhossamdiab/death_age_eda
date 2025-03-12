@@ -1,5 +1,4 @@
-"# death_age_eda" 
-By : Mariam Hossam Diab
+# death_age_eda 
 
 1. Filters (Top Section)
 The green section at the top contains three dropdown filters:
