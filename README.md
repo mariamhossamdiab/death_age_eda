@@ -1,4 +1,31 @@
 # death_age_eda 
+Analysis and Insights
+1. Gender Distribution:
+ ○ What is the distribution of genders (Male and Female) in the combined dataset? How does it differ between the two datasets before matching? 
+Dataset1
+![image](https://github.com/user-attachments/assets/e8dfe720-31c2-4bfc-a926-ced8a10ed2b6)
+Data set 2
+![image](https://github.com/user-attachments/assets/a7a48714-114c-4683-8a3f-5e174e3bdd31)
+After merge 
+![image](https://github.com/user-attachments/assets/119d9ad2-022a-49c2-a4ba-c7c2a162070c)
+
+2. Geographic Representation: 
+○ Whichcountries are most represented in the dataset, and are there any discrepancies in country distributions between Dataset 1 and Dataset 2? 
+ 
+![image](https://github.com/user-attachments/assets/bb98e74c-cd65-4350-936c-442332881212)
+
+3. Occupation Trends:
+ ○ What are the most common occupations, and how do they vary by gender? 
+ ![image](https://github.com/user-attachments/assets/7a24d900-86a8-492c-83ed-f341ed7eec6d)
+
+4. Historical Patterns: 
+○ What is the average age at death for individuals in the dataset? Are there differences based on gender or country? 
+ ![image](https://github.com/user-attachments/assets/5ddcc23a-82d3-44ae-acad-81eeb306cc72)
+
+5. Analysis of Missing Data: 
+○ After matching, what proportion of records still contain missing values in key fields such as Country or Manner of death? What strategies could be used to impute or address these gaps?
+ ![image](https://github.com/user-attachments/assets/6a89a0b8-7150-4625-a429-b0334ad3a6be)
+
 ![image](https://github.com/user-attachments/assets/544dbc40-b6af-4acf-a5d6-c7aaf469d304)
 
 1. Filters (Top Section)
@@ -82,31 +109,3 @@ ________________________________________
 ✅ How to Use:
 •	Analyze which occupations are associated with higher or lower death ages.
 •	Compare trends between different job roles.
-Answer part 4
-Analysis and Insights
-1. Gender Distribution:
- ○ What is the distribution of genders (Male and Female) in the combined dataset? How does it differ between the two datasets before matching? 
-Dataset1
-![image](https://github.com/user-attachments/assets/e8dfe720-31c2-4bfc-a926-ced8a10ed2b6)
-Data set 2
-![image](https://github.com/user-attachments/assets/a7a48714-114c-4683-8a3f-5e174e3bdd31)
-After merge 
-![image](https://github.com/user-attachments/assets/119d9ad2-022a-49c2-a4ba-c7c2a162070c)
-
-2. Geographic Representation: 
-○ Whichcountries are most represented in the dataset, and are there any discrepancies in country distributions between Dataset 1 and Dataset 2? 
- 
-![image](https://github.com/user-attachments/assets/bb98e74c-cd65-4350-936c-442332881212)
-
-3. Occupation Trends:
- ○ What are the most common occupations, and how do they vary by gender? 
- ![image](https://github.com/user-attachments/assets/7a24d900-86a8-492c-83ed-f341ed7eec6d)
-
-4. Historical Patterns: 
-○ What is the average age at death for individuals in the dataset? Are there differences based on gender or country? 
- ![image](https://github.com/user-attachments/assets/5ddcc23a-82d3-44ae-acad-81eeb306cc72)
-
-5. Analysis of Missing Data: 
-○ After matching, what proportion of records still contain missing values in key fields such as Country or Manner of death? What strategies could be used to impute or address these gaps?
- ![image](https://github.com/user-attachments/assets/6a89a0b8-7150-4625-a429-b0334ad3a6be)
-
