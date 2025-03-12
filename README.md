@@ -33,7 +33,7 @@ The green section at the top contains three dropdown filters:
 •	Gender – Select "All" or filter by "Male" or "Female."
 •	Country – Choose one or multiple countries to filter the data.
 •	Occupation – Select an occupation to see relevant insights.
-🔹 How to Use:
+* 🔹 How to Use:
 •	Click on a dropdown menu.
 •	Select one or multiple options.
 •	The dashboard updates automatically based on your selection.
@@ -44,7 +44,7 @@ Below the filters, four key metrics provide a quick summary:
 •	Total People – Shows the total number of records in the dataset.
 •	Number of Males – Represents the total count of male records.
 •	Number of Females – Represents the total count of female records.
-🔹 How to Use:
+* 🔹 How to Use:
 •	These are static indicators that change dynamically based on your selected filters.
 ________________________________________
 3. Data Visualizations (Main Section)
@@ -52,19 +52,19 @@ A. Top 10 Countries by Gender (Treemap)
 •	This chart visualizes the top 10 countries with data distribution by gender.
 •	Larger blocks represent a higher proportion of records.
 •	The "Unknown" category may include missing or unidentified country data.
-🔹 How to Use:
+* 🔹 How to Use:
 •	Hover over a country to see additional details.
 •	The size of each block indicates the relative proportion.
 B. Top 5 Occupations by Gender (Bar Chart)
 •	Displays the top 5 occupations with gender representation.
 •	Darker sections represent male data, while lighter sections represent female data.
-🔹 How to Use:
+* 🔹 How to Use:
 •	Compare gender distribution across different occupations.
 •	Hover over bars for precise values.
 C. Death Age Average by Gender (Bar Chart)
 •	Shows the average death age for each gender.
 •	"Unknown" represents records where gender is unspecified.
-🔹 How to Use:
+* 🔹 How to Use:
 •	Compare life expectancy trends by gender.
 •	Hover over bars to see specific values.
 ________________________________________
@@ -76,7 +76,7 @@ ________________________________________
 
  
 5. Filter Section (Top Right)
-🔹 Manner of Death Dropdown – Allows users to filter data based on the cause of death, including:
+* 🔹 Manner of Death Dropdown – Allows users to filter data based on the cause of death, including:
 •	Natural causes
 •	Suicide
 •	Accident
