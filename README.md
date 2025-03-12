@@ -89,10 +89,9 @@ Analysis and Insights
 Dataset1
 ![image](https://github.com/user-attachments/assets/e8dfe720-31c2-4bfc-a926-ced8a10ed2b6)
 Data set 2
- ![image](https://github.com/user-attachments/assets/a7a48714-114c-4683-8a3f-5e174e3bdd31)
-
+![image](https://github.com/user-attachments/assets/a7a48714-114c-4683-8a3f-5e174e3bdd31)
 After merge 
- ![image](https://github.com/user-attachments/assets/119d9ad2-022a-49c2-a4ba-c7c2a162070c)
+![image](https://github.com/user-attachments/assets/119d9ad2-022a-49c2-a4ba-c7c2a162070c)
 
 2. Geographic Representation: 
 ○ Whichcountries are most represented in the dataset, and are there any discrepancies in country distributions between Dataset 1 and Dataset 2? 
