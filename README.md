@@ -25,9 +25,9 @@
 5. Analysis of Missing Data: 
 ○ After matching, what proportion of records still contain missing values in key fields such as Country or Manner of death? What strategies could be used to impute or address these gaps?
  ![image](https://github.com/user-attachments/assets/6a89a0b8-7150-4625-a429-b0334ad3a6be)
-
-![image](https://github.com/user-attachments/assets/544dbc40-b6af-4acf-a5d6-c7aaf469d304)
 # powerbi dashboard
+![image](https://github.com/user-attachments/assets/544dbc40-b6af-4acf-a5d6-c7aaf469d304)
+
 1. Filters (Top Section)
 The green section at the top contains three dropdown filters:
 •	Gender – Select "All" or filter by "Male" or "Female."
