@@ -2,11 +2,11 @@
 Analysis and Insights
 1. Gender Distribution:
  ○ What is the distribution of genders (Male and Female) in the combined dataset? How does it differ between the two datasets before matching? 
-Dataset1
+ * Dataset1
 ![image](https://github.com/user-attachments/assets/a57bfeec-c7a6-4a66-aad4-f36173d792bb)
-Data set 2
+ * Data set 2
 ![image](https://github.com/user-attachments/assets/a7a48714-114c-4683-8a3f-5e174e3bdd31)
-After merge 
+ * After merge 
 ![image](https://github.com/user-attachments/assets/119d9ad2-022a-49c2-a4ba-c7c2a162070c)
 
 2. Geographic Representation: 
